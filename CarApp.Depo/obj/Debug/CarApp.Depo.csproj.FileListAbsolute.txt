@@ -1,0 +1,7 @@
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\bin\Debug\CarApp.Depo.dll
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\bin\Debug\CarApp.Depo.pdb
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\bin\Debug\CarApp.Varliklar.dll
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\bin\Debug\CarApp.Varliklar.pdb
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\obj\Debug\CarApp.Depo.csprojResolveAssemblyReference.cache
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\obj\Debug\CarApp.Depo.dll
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Depo\obj\Debug\CarApp.Depo.pdb

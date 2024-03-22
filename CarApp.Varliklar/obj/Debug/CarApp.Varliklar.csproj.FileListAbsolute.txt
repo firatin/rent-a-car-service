@@ -1,0 +1,5 @@
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Varliklar\bin\Debug\CarApp.Varliklar.dll
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Varliklar\bin\Debug\CarApp.Varliklar.pdb
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Varliklar\obj\Debug\CarApp.Varliklar.csprojResolveAssemblyReference.cache
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Varliklar\obj\Debug\CarApp.Varliklar.dll
+C:\Users\neRRo\Videos\CarApp.Library5\CarApp.Library5\CarApp.Varliklar\obj\Debug\CarApp.Varliklar.pdb
