@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp.Depo", "CarApp.Depo\CarApp.Depo.csproj", "{4B92AAF9-4D56-4A3A-ABBD-AFBBD2027675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp.Varliklar", "CarApp.Varliklar\CarApp.Varliklar.csproj", "{9E2364D6-9764-4559-95D6-3A999C6C2AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp.WinUI", "CarApp.WinUI\CarApp.WinUI.csproj", "{145CD626-CD2C-4122-8324-9093FD16528A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://saritakim-ulab.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CarApp.Depo\\CarApp.Depo.csproj
+		SccProjectName1 = CarApp.Depo
+		SccLocalPath1 = CarApp.Depo
+		SccProjectUniqueName2 = CarApp.Varliklar\\CarApp.Varliklar.csproj
+		SccProjectName2 = CarApp.Varliklar
+		SccLocalPath2 = CarApp.Varliklar
+		SccProjectUniqueName3 = CarApp.WinUI\\CarApp.WinUI.csproj
+		SccProjectName3 = CarApp.WinUI
+		SccLocalPath3 = CarApp.WinUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B92AAF9-4D56-4A3A-ABBD-AFBBD2027675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B92AAF9-4D56-4A3A-ABBD-AFBBD2027675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B92AAF9-4D56-4A3A-ABBD-AFBBD2027675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B92AAF9-4D56-4A3A-ABBD-AFBBD2027675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2364D6-9764-4559-95D6-3A999C6C2AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2364D6-9764-4559-95D6-3A999C6C2AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2364D6-9764-4559-95D6-3A999C6C2AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2364D6-9764-4559-95D6-3A999C6C2AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145CD626-CD2C-4122-8324-9093FD16528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145CD626-CD2C-4122-8324-9093FD16528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145CD626-CD2C-4122-8324-9093FD16528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145CD626-CD2C-4122-8324-9093FD16528A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
