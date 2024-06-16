@@ -7,7 +7,7 @@ Branch Management: Enables administrators to add, edit, or remove branches and m
 Driver Management: Provides functionality to add, modify, or delete drivers associated with the rental service, along with their personal information and driving records.
 Inventory Management: Allows users to track and manage the inventory of vehicles available for rental, including details such as make, model, year, and current availability status.
 
-#Requirements
+#Requirements 
 Operating System: Windows 7 or later
 .NET Framework: Version 4.5 or higher
 
